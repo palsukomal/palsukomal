@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @palsukomal
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my new projects at IRLab, CSE, IIT(BHU).
+
 - 📫 How to reach me through email to:
  spal.cse@itbhu.ac.in
 
